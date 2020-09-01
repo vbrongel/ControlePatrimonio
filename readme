@@ -1,0 +1,24 @@
+Esta solução foi criado com 4 projetos.
+
+-Domínio;
+-Inversão de controle;
+-Infra;
+-API.
+
+No projeto domínio, ficam as entidades, interfaces e services. Este projeto é responsável pela regra de negócio.
+
+No projeto infra, é o responsável pela infraestrutura, como a persistência dos dados. Este projeto mapea o banco de dados e faz 
+toda a transação da aplicação.
+
+O projeto Inversão de controle, é o responsável pela inversão de controle da interface para a classe concreta. Foi usado o pacote Unity 
+para realizar a inversão de controle.
+
+O projeto API é a própria API, realizando requisições Restful. Usei uma classe como o controlador base para centralizar as operações
+neste, para facilitar a implementação de outros controllers.
+
+Em todos os projetos é usado muito heranças de interfaces, já que cada service ou repository, por exemplo, compartilham das mesmas características.
+O objetivo é facilitar a implementação e ter reusabilidade.
+
+Outro tipo de recurso utilizado foi o Arguments. O objetivo é os parâmetros e retornos serem objetos para que fique mais fácil a implementação.
+Não é necessário ficar repetindo os parâmetros em todos os lugares onde for implementado alguma funcionalidade, em apenas um ponto da aplicação é passado os tipos de argumentos. 
+ 
