@@ -1,0 +1,7 @@
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\bin\Release\GerenciamentoPatrimonio.Dominio.dll
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\bin\Release\GerenciamentoPatrimonio.Dominio.pdb
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Release\GerenciamentoPatrimonio.Dominio.Mensagens.resources
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Release\GerenciamentoPatrimonio.Dominio.csproj.GenerateResource.cache
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Release\GerenciamentoPatrimonio.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Release\GerenciamentoPatrimonio.Dominio.dll
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Release\GerenciamentoPatrimonio.Dominio.pdb

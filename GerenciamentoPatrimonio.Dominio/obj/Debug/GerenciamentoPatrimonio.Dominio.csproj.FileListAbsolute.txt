@@ -1,0 +1,15 @@
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\bin\Debug\GerenciamentoPatrimonio.Dominio.dll
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\bin\Debug\GerenciamentoPatrimonio.Dominio.pdb
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.csprojAssemblyReference.cache
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.Mensagens.resources
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.csproj.GenerateResource.cache
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.dll
+C:\Users\vbron\OneDrive\Documentos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.pdb
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\bin\Debug\GerenciamentoPatrimonio.Dominio.dll
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\bin\Debug\GerenciamentoPatrimonio.Dominio.pdb
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.Mensagens.resources
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.csproj.GenerateResource.cache
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.dll
+C:\Users\vbron\OneDrive\Documentos\Projetos\GerenciamentoPatrimonio\GerenciamentoPatrimonio.Dominio\obj\Debug\GerenciamentoPatrimonio.Dominio.pdb
