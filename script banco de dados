@@ -1,0 +1,30 @@
+create database gerenciamento
+
+
+create table usuario (
+
+id int not null primary key identity(1,1),
+nome varchar(50) not null,
+email varchar(30) not null,
+senha varchar(30) not null
+
+)
+
+
+
+create table marca (
+
+id int not null primary key identity(1,1),
+nome varchar(50) not null
+
+)
+
+create table patrimonio (
+
+id int not null primary key identity(1,1),
+nome varchar(50) not null,
+MarcaId int not null FOREIGN KEY REFERENCES marca(id),
+descricao varchar(100) null,
+numero_tombo int not null
+
+)
